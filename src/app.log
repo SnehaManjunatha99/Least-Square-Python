@@ -1,0 +1,6 @@
+2024-11-27 20:29:43,368 - INFO - Starting Optimal Function Mapping and Data Visualization Project.
+2024-11-27 20:29:46,108 - INFO - Selected Ideal Functions: [np.int64(42), np.int64(41), np.int64(11), np.int64(48)]
+2024-11-27 20:29:46,109 - INFO - Max Deviations: [np.float64(48.431998128912916), np.float64(50.34861476659932), np.float64(42.231005393633374), np.float64(45.2031223265262)]
+2024-11-27 20:29:47,490 - INFO - Test data mapped and results saved successfully.
+2024-11-27 20:29:47,492 - ERROR - Error retrieving test results: name 'pd' is not defined
+2024-11-27 20:29:50,464 - INFO - Project execution completed successfully.
